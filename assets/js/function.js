@@ -15,10 +15,6 @@ function member3() {
   alert("MEMBER-3");
 }
 
-function member4() {
-  alert("MEMBER-4");
-}
-
 function saran() {
   const nama = prompt("Tuliskan nama Anda?");
   const saran = prompt("Berikan saran?");
